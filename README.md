@@ -2,7 +2,7 @@
 
 # Contribute to Open Source
 
-The goal of this project is to empower you to contribute code to open source projects on GitHub by teaching you the mechanics of the process in an interactive experience.
+The goal of this project is to empower you to contribute code to open source projects on GitHub by teaching you the mechanics of the process in an interactive experience. 
 
 ## You
 
